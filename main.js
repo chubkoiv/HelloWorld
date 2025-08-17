@@ -1,3 +1,3 @@
 function send() {
-	var x = 6;
+	var x = 10;
 }
