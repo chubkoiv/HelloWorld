@@ -1,3 +1,4 @@
 function send2() {
-  var y = 6;
+  const y = 5;
+  console.log(y);
 }
